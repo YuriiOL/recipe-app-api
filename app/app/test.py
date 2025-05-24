@@ -11,7 +11,6 @@ class SimpleTests(SimpleTestCase):
 
         self.assertEqual(res, 11)
 
-
     def test_subtract_numbers(self):
         res = subtract(5, 6)
 
